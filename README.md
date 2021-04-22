@@ -6,9 +6,9 @@ Watch my [DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 
 # Project Source Codes:
 1. Hangman Game
-    python semantics & syntax
+   - python semantics & syntax
 2. Weather Master
-    python semantics & syntax
+   - python semantics & syntax
 MyPhotoshop
 image processing
 Pedestrian Removing Application
